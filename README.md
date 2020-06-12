@@ -8,6 +8,19 @@
 -   [Dependencies](#Dependencies)
 -   [Links](#Links)
 
+## Maven
+Adding the repo as a maven dependency:
+
+
+    <repositories>
+        <repository>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
+        </repository>
+    </repositories>
+
+
+
 ## <a name='Overview'>Overview</a>
 
 The Schema.org Client Library for Java is a library for creating [schema.org](http://schema.org) entities.
